@@ -2,7 +2,7 @@
 
 
 
-  // 2 2 2 3 3 4 4(linked list )
+  // 2 2 2 3 3 4 4linked list 
 class Solution {
   public:
     // Function to remove duplicates from sorted linked list.
