@@ -1,4 +1,4 @@
-ass Solution {
+ Solution {
 public:
         string add(string num1,string num2){
            int index1=num1.size()-1,index2=num2.size()-1;
